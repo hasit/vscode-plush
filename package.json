@@ -1,0 +1,19 @@
+{
+    "name": "vscode-plush",
+    "displayName": "vscode-plush",
+    "description": "Plush syntax support for VSCode",
+    "version": "0.0.1",
+    "publisher": "rubbersheep",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+            "language": "html",
+            "path": "./snippets/snippets.json"
+        }]
+    }
+}
