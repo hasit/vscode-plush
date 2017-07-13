@@ -2,7 +2,7 @@
     "name": "vscode-plush",
     "displayName": "vscode-plush",
     "description": "Plush syntax support for VSCode",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "rubbersheep",
     "engines": {
         "vscode": "^1.13.0"
