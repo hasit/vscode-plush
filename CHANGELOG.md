@@ -13,4 +13,4 @@ All notable changes to the "vscode-plush" extension will be documented in this f
 ### Added
 - CHANGELOG.md file to keep track of changes.
 - README.md file to describe the project and its features.
-- snippets/snippets.json file that contains basic tags as listed in [Plush's README.md file]( https://github.com/gobuffalo/plush/blob/master/README.md).
+- snippets/snippets.json file that contains basic tags as listed in README.md file of gobuffalo/plush.
