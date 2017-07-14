@@ -1,11 +1,14 @@
 # Change Log
 All notable changes to the "vscode-plush" extension will be documented in this file.
 
+## [0.1.3] - 2017-07-14
+### Added
+- LICENSE.txt file with MIT license.
+- Repository information in package.json.
+
 ## [0.1.2] - 2017-07-14
 ### Added
 - VSCode Marketplace shileds in README.md.
-- LICENSE.txt file with MIT license.
-- Repository information in package.json.
 
 ## [0.1.1] - 2017-07-13
 ### Changed
