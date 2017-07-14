@@ -1,5 +1,7 @@
 # vscode-plush
 
+[![plush version](https://vsmarketplacebadge.apphb.com/version-short/rubbersheep.vscode-plush.svg)](https://marketplace.visualstudio.com/items?itemName=rubbersheep.vscode-plush) [![plush installs](https://vsmarketplacebadge.apphb.com/installs/rubbersheep.vscode-plush.svg)](https://marketplace.visualstudio.com/items?itemName=rubbersheep.vscode-plush) [![plush ratings](https://vsmarketplacebadge.apphb.com/rating-short/rubbersheep.vscode-plush.svg)](https://marketplace.visualstudio.com/items?itemName=rubbersheep.vscode-plush#review-details)
+
 Plush syntax support for VSCode. Currently supports snippets. Eventually, will contain support for syntax highlighting and complete autoformatting of Plush tags in HTML files.
 
 ## Snippets and Bindings
