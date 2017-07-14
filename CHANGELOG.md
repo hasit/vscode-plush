@@ -1,7 +1,9 @@
 # Change Log
 All notable changes to the "vscode-plush" extension will be documented in this file.
 
-## [Unreleased]
+## [0.1.2] - 2017-07-14
+### Added
+- VSCode Marketplace shileds in README.md.
 
 ## [0.1.1] - 2017-07-13
 ### Changed
