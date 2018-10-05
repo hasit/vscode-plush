@@ -27,6 +27,22 @@
     "for": {
       "prefix": "plf",
       "body": "<%= for (${1:key}, ${2:value}) in ${3:expression} { %>\n\t<%= ${1} %> <%= ${2} %>\n<% } %>"
+    },
+    "javascript tag": {
+      "prefix": "pljs",
+      "body": "<%= javascriptTag(${1:\"filename.js\"}) %>"
+    },
+    "stylesheet tag": {
+      "prefix": "plst",
+      "body": "<%= stylesheetTag(${1:\"filename.css\"}) %>"
+    },
+    "partial": {
+      "prefix": "plpa",
+      "body": "<%= partial(${1:\"partials/filename.html\"}) %>"
+    },
+    "form for": {
+      "prefix": "plfm",
+      "body": "<%= form_for(${1:model}, {action:${2:\"path()\"}, method: ${3:\"POST\"}}) { %>\n\t<%= f.InputTag(${4:\"FieldName\"}, {}) %>\n<% } %>"
     }
   }
 }
