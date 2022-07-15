@@ -15,6 +15,10 @@ Plush syntax support for VSCode. Currently supports snippets. Eventually, will c
 | map | plm | <% let name = {key: value} %> |
 | array | pla | <% let name = [values] %> |
 | for | plf | <%= for (key, value) in expression { %><%= key %> <%= value %><% } %> |
+| javascript Tag | pljs | <%= javascriptTag("filename.js") %> |
+| stylesheet Tag | plst | <%= stylesheetTag("filename.css") %> |
+| partial | plpa | <%= partial("partials/filename.html") %> |
+| form for | plfm | <%= form_for(model, {action:"path()", method: "POST"}) { %><%= f.InputTag("FieldName", {}) %><% } %> |
 
 ## References
 
